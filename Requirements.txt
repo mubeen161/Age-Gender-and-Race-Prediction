@@ -1,10 +1,9 @@
-
- **NumPy** 
- **Pandas** 
- **Matplotlib** 
- **Seaborn** 
- **Pathlib** 
- **PIL** 
- **TensorFlow** 
- **Keras**
- **scikit-learn** 
+NumPy
+Pandas
+Matplotlib
+Seaborn
+Pathlib
+PIL
+TensorFlow
+Keras
+scikit-learn
