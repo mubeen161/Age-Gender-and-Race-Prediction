@@ -18,5 +18,5 @@
 9. View prediction
 
 ## Sample Outputs:
-![Sample Output 1](https://github.com/utkarshshri1016/Age-Gender_Detector/blob/main/Output_Image_1.PNG)
+![Sample Output 1](https://github.com/mubeen161/Age-Gender-and-Race-Prediction/blob/main/output.png)
 
